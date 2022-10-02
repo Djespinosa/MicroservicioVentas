@@ -9,6 +9,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     font-weight:bold;
+    background-color: var(--light-gray);
 }
 
 a {
@@ -75,10 +76,4 @@ a {
 
 .btnDelete i{
     color: var(--red);
-}
-
-.edit-back-product{
-    font-size: 12px;
-    padding: 5px;
-    text-align: center;
 }
